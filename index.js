@@ -1,4 +1,4 @@
-export function finishform() {
+export function finishForm() {
     const el = document.querySelector('input');
     el.setAttribute('type', 'password')
     const elem = document.querySelector('.login-form');
